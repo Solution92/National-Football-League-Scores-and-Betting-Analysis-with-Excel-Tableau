@@ -16,6 +16,8 @@ The project was done for a betting business'
 - [Recommendation](#recommendation)
 
 
+[Link to my Tableau Online Public](https://public.tableau.com/app/profile/emmanuel.ashiedu/viz/FootbalBettingAnalysis/Dashboard1)
+
 
 ### Introduction
 
